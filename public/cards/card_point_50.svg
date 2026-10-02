@@ -1,0 +1,24 @@
+<svg viewBox="0 0 160 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="80" cy="80" r="74" fill="#FEFCE8" stroke="#FACC15" stroke-width="2.5" stroke-dasharray="4 4" />
+  <path d="M40 25L46 32M120 25L114 32M80 12L80 20" stroke="#F59E0B" stroke-width="3" stroke-linecap="round" />
+  <path d="M54 36L64 20L80 32L96 20L106 36Z" fill="#FACC15" stroke="#0F172A" stroke-width="3" stroke-linejoin="round" />
+  <rect x="52" y="34" width="56" height="8" rx="2" fill="#EAB308" stroke="#0F172A" stroke-width="2" />
+  <circle cx="64" cy="22" r="2.5" fill="#EF4444" />
+  <circle cx="80" cy="33" r="3" fill="#3B82F6" />
+  <circle cx="96" cy="22" r="2.5" fill="#EF4444" />
+  <circle cx="80" cy="62" r="26" fill="#F8FAFC" stroke="#0F172A" stroke-width="3" />
+  <path d="M66 60Q72 56 76 60" stroke="#0F172A" stroke-width="2.5" stroke-linecap="round" fill="none" />
+  <path d="M84 60Q88 56 94 60" stroke="#0F172A" stroke-width="2.5" stroke-linecap="round" fill="none" />
+  <polygon points="80,67 77,70 83,70" fill="#F43F5E" />
+  <path d="M46 82C46 76 60 76 80 76C100 76 114 76 114 82L124 136H36L46 82Z" fill="#DC2626" stroke="#0F172A" stroke-width="3" />
+  <path d="M72 76H88V136H72V76Z" fill="#FFFFFF" stroke="#0F172A" stroke-width="2" stroke-dasharray="3 3" />
+  <rect x="48" y="104" width="64" height="34" rx="5" fill="#78350F" stroke="#0F172A" stroke-width="3" />
+  <path d="M46 104H114V110H46V104Z" fill="#CA8A04" stroke="#0F172A" stroke-width="2" />
+  <circle cx="62" cy="100" r="5" fill="#FACC15" stroke="#78350F" stroke-width="1.5" />
+  <circle cx="72" cy="97" r="6" fill="#FACC15" stroke="#78350F" stroke-width="1.5" />
+  <circle cx="82" cy="98" r="5.5" fill="#FACC15" stroke="#78350F" stroke-width="1.5" />
+  <circle cx="92" cy="96" r="6" fill="#FACC15" stroke="#78350F" stroke-width="1.5" />
+  <circle cx="98" cy="101" r="5" fill="#FACC15" stroke="#78350F" stroke-width="1.5" />
+  <circle cx="36" cy="126" r="14" fill="#EAB308" stroke="#78350F" stroke-width="2" />
+  <text x="36" y="131" fill="#78350F" font-size="10" font-weight="900" text-anchor="middle" font-family="sans-serif">+50</text>
+</svg>

@@ -1,0 +1,22 @@
+<svg viewBox="0 0 160 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="80" cy="80" r="74" fill="#FAF5FF" stroke="#E9D5FF" stroke-width="2.5" stroke-dasharray="4 4" />
+  <path d="M52 50L80 14L108 50Z" fill="#7C3AED" stroke="#0F172A" stroke-width="3" stroke-linejoin="round" />
+  <ellipse cx="80" cy="50" rx="36" ry="9" fill="#6D28D9" stroke="#0F172A" stroke-width="3" />
+  <path d="M78 28L80 32L84 33L80 35L79 39L77 35L73 33L77 32Z" fill="#FACC15" />
+  <ellipse cx="80" cy="68" rx="26" ry="20" fill="#E2E8F0" stroke="#0F172A" stroke-width="3" />
+  <polygon points="56,42 46,60 64,58" fill="#CBD5E1" stroke="#0F172A" stroke-width="2" />
+  <polygon points="104,42 96,58 114,60" fill="#CBD5E1" stroke="#0F172A" stroke-width="2" />
+  <circle cx="70" cy="66" r="6" fill="#10B981" stroke="#0F172A" stroke-width="2" />
+  <circle cx="70" cy="66" r="2.5" fill="#0F172A" />
+  <circle cx="90" cy="66" r="6" fill="#10B981" stroke="#0F172A" stroke-width="2" />
+  <circle cx="90" cy="66" r="2.5" fill="#0F172A" />
+  <polygon points="80,72 77,75 83,75" fill="#F43F5E" />
+  <path d="M64 140H96L92 130H68L64 140Z" fill="#B45309" stroke="#0F172A" stroke-width="2.5" />
+  <circle cx="80" cy="106" r="28" fill="#7C3AED" stroke="#4C1D95" stroke-width="3" />
+  <path d="M64 94A20 20 0 0 1 88 88" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" opacity="0.8" />
+  <rect x="68" y="98" width="9" height="13" rx="1.5" fill="#FFFFFF" stroke="#6D28D9" stroke-width="1" transform="rotate(-15 68 98)" />
+  <rect x="76" y="96" width="9" height="13" rx="1.5" fill="#FEF08A" stroke="#B45309" stroke-width="1" />
+  <rect x="85" y="100" width="9" height="13" rx="1.5" fill="#FECDD3" stroke="#E11D48" stroke-width="1" transform="rotate(15 85 100)" />
+  <path d="M116 98L118 101L122 102L118 104L117 108L115 104L111 102L115 101Z" fill="#C084FC" />
+  <path d="M44 110L46 113L50 114L46 116L45 120L43 116L39 114L43 113Z" fill="#C084FC" />
+</svg>

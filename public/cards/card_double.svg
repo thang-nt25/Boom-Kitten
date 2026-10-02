@@ -1,0 +1,16 @@
+<svg viewBox="0 0 160 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="80" cy="80" r="74" fill="#FEFCE8" stroke="#FDE047" stroke-width="2.5" stroke-dasharray="4 4" />
+  <path d="M26 44L44 38L36 56L54 50" stroke="#EAB308" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M134 44L116 38L124 56L106 50" stroke="#EAB308" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M50 48L40 32L58 38L66 22L76 36L84 20L94 36L104 22L112 38L128 32L118 48C126 56 128 72 120 84C112 96 98 100 80 100C62 100 48 96 40 84C32 72 34 56 50 48Z" fill="#FBBF24" stroke="#0F172A" stroke-width="3.5" stroke-linejoin="round" />
+  <circle cx="66" cy="62" r="9" fill="#FEF08A" stroke="#0F172A" stroke-width="2.5" />
+  <path d="M64 56L68 62L64 63L68 68" stroke="#B45309" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  <circle cx="94" cy="62" r="9" fill="#FEF08A" stroke="#0F172A" stroke-width="2.5" />
+  <path d="M92 56L96 62L92 63L96 68" stroke="#B45309" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M72 74C76 80 84 80 88 74" stroke="#0F172A" stroke-width="2.5" stroke-linecap="round" fill="#DC2626" />
+  <circle cx="80" cy="116" r="30" fill="#EAB308" stroke="#78350F" stroke-width="3.5" />
+  <circle cx="80" cy="116" r="25" fill="#FEF08A" stroke="#CA8A04" stroke-width="2" />
+  <text x="80" y="126" fill="#78350F" font-size="24" font-weight="900" text-anchor="middle" font-family="sans-serif">2X</text>
+  <path d="M52 118L44 126L52 128L46 136" stroke="#EAB308" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M108 118L116 126L108 128L114 136" stroke="#EAB308" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />
+</svg>

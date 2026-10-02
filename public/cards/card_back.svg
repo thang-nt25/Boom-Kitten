@@ -1,0 +1,18 @@
+<svg viewBox="0 0 160 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="80" cy="80" r="70" fill="#0F172A" stroke="#D97706" stroke-width="3" />
+  <circle cx="80" cy="80" r="64" fill="#1E293B" stroke="#F59E0B" stroke-width="1.5" stroke-dasharray="4 3" />
+  <path d="M80 32C74 42 68 46 68 54C68 62 74 66 80 66C86 66 92 62 92 54C92 46 86 42 80 32Z" fill="#EF4444" stroke="#DC2626" stroke-width="1.5" />
+  <path d="M80 42C77 47 74 49 74 54C74 58 77 60 80 60C83 60 86 58 86 54C86 49 83 47 80 42Z" fill="#FBBF24" />
+  <polygon points="56,60 46,78 68,76" fill="#F59E0B" stroke="#B45309" stroke-width="2" />
+  <polygon points="104,60 92,76 114,78" fill="#F59E0B" stroke="#B45309" stroke-width="2" />
+  <circle cx="80" cy="84" r="28" fill="#F59E0B" stroke="#B45309" stroke-width="2.5" />
+  <polygon points="70,80 64,84 72,84" fill="#0F172A" />
+  <polygon points="90,80 88,84 96,84" fill="#0F172A" />
+  <polygon points="80,89 77,92 83,92" fill="#78350F" />
+  <path d="M50 126L110 106M110 126L50 106" stroke="#FDE68A" stroke-width="4" stroke-linecap="round" />
+  <circle cx="50" cy="126" r="4" fill="#F59E0B" />
+  <circle cx="110" cy="106" r="4" fill="#F59E0B" />
+  <circle cx="110" cy="126" r="4" fill="#F59E0B" />
+  <circle cx="50" cy="106" r="4" fill="#F59E0B" />
+  <text x="80" y="142" fill="#FEF08A" font-size="12" font-weight="900" text-anchor="middle" letter-spacing="0.1em" font-family="sans-serif">MÈO NỔ</text>
+</svg>

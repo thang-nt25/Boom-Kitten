@@ -1,0 +1,19 @@
+<svg viewBox="0 0 160 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="80" cy="80" r="74" fill="#FDF2F8" stroke="#FBCFE8" stroke-width="2.5" stroke-dasharray="4 4" />
+  <path d="M48 60C56 36 104 36 112 60" stroke="#DB2777" stroke-width="4" stroke-linecap="round" stroke-dasharray="4 4" />
+  <polygon points="114,64 122,54 110,54" fill="#DB2777" />
+  <path d="M112 100C104 124 56 124 48 100" stroke="#7C3AED" stroke-width="4" stroke-linecap="round" stroke-dasharray="4 4" />
+  <polygon points="46,96 38,106 50,106" fill="#7C3AED" />
+  <circle cx="52" cy="78" r="22" fill="#FB923C" stroke="#0F172A" stroke-width="2.5" />
+  <polygon points="38,60 32,74 46,72" fill="#F97316" stroke="#0F172A" stroke-width="2" />
+  <polygon points="58,58 52,72 66,74" fill="#F97316" stroke="#0F172A" stroke-width="2" />
+  <circle cx="46" cy="76" r="3.5" fill="#0F172A" />
+  <circle cx="58" cy="76" r="3.5" fill="#0F172A" />
+  <circle cx="108" cy="82" r="22" fill="#A78BFA" stroke="#0F172A" stroke-width="2.5" />
+  <polygon points="94,64 88,78 102,76" fill="#8B5CF6" stroke="#0F172A" stroke-width="2" />
+  <polygon points="114,62 108,76 122,78" fill="#8B5CF6" stroke="#0F172A" stroke-width="2" />
+  <circle cx="102" cy="80" r="3.5" fill="#0F172A" />
+  <circle cx="114" cy="80" r="3.5" fill="#0F172A" />
+  <rect x="68" y="58" width="13" height="19" rx="2" fill="#FEF08A" stroke="#B45309" stroke-width="1.5" transform="rotate(15 68 58)" />
+  <rect x="78" y="86" width="13" height="19" rx="2" fill="#BAE6FD" stroke="#0369A1" stroke-width="1.5" transform="rotate(-15 78 86)" />
+</svg>
